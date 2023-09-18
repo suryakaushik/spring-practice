@@ -1,0 +1,1 @@
+We can use schema. Sql and data. Sql to customise user table/schema.
